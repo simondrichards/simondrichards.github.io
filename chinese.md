@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Chinese Language Resources"
-permalink: /chinese/
+permalink: /chinese
+---
 
 ## Chinese Language Resources
 
