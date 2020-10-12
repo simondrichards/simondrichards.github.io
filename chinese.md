@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-tactile
 layout: page
 title: "Chinese Language Resources"
 permalink: /chinese
